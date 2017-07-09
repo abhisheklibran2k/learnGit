@@ -1,3 +1,5 @@
-File to local repos, created by Singh,Abhishek
+File to local repos, created by Abhishek Singh
 
 Ushing changes from Local to Remote
+
+Line added to know MErge
