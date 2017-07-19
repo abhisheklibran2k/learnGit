@@ -1,5 +1,11 @@
 This is BIG World.
 
+<<<<<<< HEAD
 My name is Slim Abhishek Singh
 My name is Slim Abhishek Singh
 My name is Slim Abhishek Singh
+=======
+My name is Surely Abhishek Singh
+My name is Surely Abhishek Singh
+My name is Surely Abhishek Singh
+>>>>>>> branch_conf
